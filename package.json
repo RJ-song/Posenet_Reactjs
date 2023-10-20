@@ -2,6 +2,7 @@
   "name": "posenet",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://rj-song.github.io/Posenet_Reactjs",
   "dependencies": {
     "@tensorflow-models/posenet": "^2.2.2",
     "@tensorflow/tfjs": "^4.2.0",
