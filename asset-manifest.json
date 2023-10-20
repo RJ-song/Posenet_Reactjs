@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Posenet_Reactjs/static/css/main.073c9b0a.css",
+    "main.js": "/Posenet_Reactjs/static/js/main.bd643aa0.js",
+    "static/js/787.cdd9d079.chunk.js": "/Posenet_Reactjs/static/js/787.cdd9d079.chunk.js",
+    "index.html": "/Posenet_Reactjs/index.html",
+    "main.073c9b0a.css.map": "/Posenet_Reactjs/static/css/main.073c9b0a.css.map",
+    "main.bd643aa0.js.map": "/Posenet_Reactjs/static/js/main.bd643aa0.js.map",
+    "787.cdd9d079.chunk.js.map": "/Posenet_Reactjs/static/js/787.cdd9d079.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bd643aa0.js"
+  ]
+}
